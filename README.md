@@ -11,5 +11,6 @@ Al termine del quiz, il server invia il risultato finale al client, mostrando il
 
 Il progetto è stato sviluppato in coppia, con la seguente suddivisione dei ruoli:
 
-Butt: sviluppo della componente server
-Tulgara: sviluppo della componente client
+# Butt: sviluppo della componente server
+
+# Tulgara: sviluppo della componente client
